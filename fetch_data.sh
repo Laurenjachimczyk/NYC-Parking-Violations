@@ -1,7 +1,7 @@
 echo "Starting.."
 
 offset=0
-limit=1000
+limit=100000
 output_file="parking_violations.csv"
 iteration=0
 
